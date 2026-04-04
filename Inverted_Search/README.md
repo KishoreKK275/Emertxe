@@ -105,8 +105,8 @@ typedef struct Sub {
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inverted-search-engine.git
-cd inverted-search-engine
+git clone https://github.com/KishoreKK275/Emertxe.git
+cd Inverted_Search
 ```
 
 ### 2. Compile the Code
