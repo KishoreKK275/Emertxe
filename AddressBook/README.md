@@ -16,13 +16,13 @@ This project demonstrates structured programming in C, file handling, validation
 ## Screenshots
 
 ### Main Menu
-![Main Menu](AddressBook/Screenshots/Main_Menu.png)
+![Main Menu](Screenshots/Main_Menu.png)
 
 ### Add Contact
-![Add Contact](AddressBook/Screenshots/Add_Contact.png)
+![Add Contact](Screenshots/Add_Contact.png)
 
 ### List Contacts
-![List Contacts](AddressBook/Screenshots/List_Contacts.png)
+![List Contacts](Screenshots/List_Contacts.png)
 
 ---
 
@@ -37,7 +37,7 @@ AddressBook/
 ├── ui.h                # User interface declarations
 ├── contacts.csv        # Stored contacts (CSV format)
 ├── contacts.txt        # Alternate text storage
-├── screenshots/        # Application screenshots
+├── Screenshots/        # Application screenshots
 │   ├── main_menu.png
 │   ├── add_contact.png
 │   └── list_contacts.png
