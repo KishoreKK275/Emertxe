@@ -12,7 +12,7 @@ Standard C integer types have fixed limits:
 |-------------|------------------------------|
 | `int`       | ~2.1 billion                 |
 | `long long` | ~9.2 quintillion             |
-| **APC**     | ♾️ **No limit** (memory only) |
+| **APC**     | ♾️ **No limit**              |
 
 This calculator stores numbers **digit by digit** in a doubly linked list, so it can handle numbers with hundreds or thousands of digits — useful in cryptography, competitive programming, and scientific computing.
 
@@ -30,7 +30,7 @@ Arithmetic is done from **tail → head** (right to left), just like manual pape
 ## 📁 Project Structure
 
 ```
-APC/
+Arbitrary_Precision_Calculator/
 │
 ├── main.c    # Entry point — argument parsing, sign detection, operator routing
 ├── apc.c     # Core: linked list operations, input validation, utility functions
@@ -92,14 +92,14 @@ typedef struct node {
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/arbitrary-precision-calculator.git
-cd arbitrary-precision-calculator
+git clone https://github.com/KishoreKK275/Emertxe.git
+cd Arbitrary_Precision_Calculator
 ```
 
 ### 2. Compile the Code
 
 ```bash
-gcc main.c apc.c add.c sub.c mul.c div.c mod.c -o apc
+gcc *.c -o apc
 ```
 
 ---
