@@ -78,8 +78,8 @@ Mp3TagReader/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mp3-tag-reader-editor.git
-cd mp3-tag-reader-editor
+git clone https://github.com/KishoreKK275/Emertxe.git
+cd MP3_Tag_Reader_Editor
 ```
 
 ### 2. Compile the Code
