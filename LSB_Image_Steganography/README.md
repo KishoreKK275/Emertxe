@@ -71,8 +71,8 @@ LSB_Image_Steganography/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lsb-image-steganography.git
-cd lsb-image-steganography
+git clone https://github.com/KishoreKK275/Emertxe.git
+cd LSB_Image_Steganography
 ```
 
 ### 2. Compile the Code
